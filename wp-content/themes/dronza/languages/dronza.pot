@@ -1,0 +1,445 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Dronza\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-02-19 23:07+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: GridValley <gridvalley.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr__\n"
+"X-Loco-Target-Locale: ar_AE\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:23
+msgid "404 image"
+msgstr ""
+
+#: classes/class-dronza-walker-comment.php:64
+msgid "says:"
+msgstr ""
+
+#: classes/class-dronza-walker-comment.php:71
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:71
+msgid "Comments"
+msgstr ""
+
+#: comments.php:108
+msgid "Full Name"
+msgstr ""
+
+#: comments.php:111 woocommerce/single-product-reviews.php:100
+msgid "Email"
+msgstr ""
+
+#: comments.php:114
+msgid "Website"
+msgstr ""
+
+#: comments.php:118
+msgid "Your comment"
+msgstr ""
+
+#: footer.php:53
+msgid "home image"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:334 inc/tgmpa/tgm_plugins.php:143
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:335 inc/tgmpa/tgm_plugins.php:144
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:337 inc/tgmpa/tgm_plugins.php:146
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:339 inc/tgmpa/tgm_plugins.php:148
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:340 inc/tgmpa/tgm_plugins.php:149
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392 inc/tgmpa/tgm_plugins.php:201
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:393
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#: inc/tgmpa/class-tgm-plugin-activation.php:3250 inc/tgmpa/tgm_plugins.php:202
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395 inc/tgmpa/tgm_plugins.php:203
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397 inc/tgmpa/tgm_plugins.php:205
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:399 inc/tgmpa/tgm_plugins.php:207
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:401 inc/tgmpa/tgm_plugins.php:209
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:402 inc/tgmpa/tgm_plugins.php:210
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:403 inc/tgmpa/tgm_plugins.php:211
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:404 inc/tgmpa/tgm_plugins.php:212
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2361
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2364
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2380
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2383
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2386
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2403
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2407
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2409
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2415
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2418
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2421
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2638
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2639
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2640
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2644
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2645
+msgid "Status"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2694
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2705
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2808
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2814
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2817
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2848
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2891
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3249
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3589
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3592
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3598
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3600
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3601
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3603
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3606
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3609
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3611
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/tgm_plugins.php:64
+msgid "GridValley Core"
+msgstr ""
+
+#: inc/tgmpa/tgm_plugins.php:75
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/tgmpa/tgm_plugins.php:87
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: inc/tgmpa/tgm_plugins.php:98
+msgid "Elementor"
+msgstr ""
+
+#: inc/tgmpa/tgm_plugins.php:104
+msgid "Woocommerce"
+msgstr ""
+
+#: inc/tgmpa/tgm_plugins.php:110
+msgid "Unyson"
+msgstr ""
+
+#: inc/tgmpa/tgm_plugins.php:116
+msgid "Contact Form 7"
+msgstr ""
+
+#: index.php:86
+msgid "search again"
+msgstr ""
+
+#: searchform.php:24
+msgid "Type to search"
+msgstr ""
+
+#: template-parts/entry-author-bio.php:20
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: template-parts/pagination.php:21
+msgid "Newer <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: template-parts/pagination.php:25
+msgid "Older <span class=\"nav-short\">Posts</span>"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:27
+msgid "Min price"
+msgstr ""
+
+#: woocommerce/content-widget-price-filter.php:28
+msgid "Max price"
+msgstr ""
+
+#: woocommerce/content-widget-reviews.php:31
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: woocommerce/loop/orderby.php:24
+msgid "Shop order"
+msgstr ""
+
+#: woocommerce/product-searchform.php:25
+msgid "Search products&hellip;"
+msgstr ""
+
+#: woocommerce/product-searchform.php:26
+msgid "Search"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:120
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:134
+msgid "Your review"
+msgstr ""
+
+#: woocommerce/single-product/add-to-cart/variable.php:32
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:34
+msgid "Close (Esc)"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:35
+msgid "Share"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:36
+msgid "Toggle fullscreen"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:37
+msgid "Zoom in/out"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:49
+msgid "Previous (arrow left)"
+msgstr ""
+
+#: woocommerce/single-product/photoswipe.php:50
+msgid "Next (arrow right)"
+msgstr ""
+
+#: woocommerce/single-product/related.php:29
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:37
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:22
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:22
+msgid "Description"
+msgstr ""

@@ -1,0 +1,1119 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Gridvalley Core\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-09-29 06:10+0500\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: GridValley <gridvalley.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr__\n"
+"X-Loco-Target-Locale: ar_AE\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: custom-posts/projects/projects.php:24 custom-posts/projects/projects.php:25
+#: custom-posts/projects/projects.php:36
+msgid "Projects"
+msgstr ""
+
+#: custom-posts/projects/projects.php:26 custom-posts/services/services.php:21
+#: custom-posts/team/team.php:26
+msgid "Add New"
+msgstr ""
+
+#: custom-posts/projects/projects.php:27
+msgid "Add New Projects"
+msgstr ""
+
+#: custom-posts/projects/projects.php:28
+msgid "Edit Projects"
+msgstr ""
+
+#: custom-posts/projects/projects.php:29
+msgid "New Projects"
+msgstr ""
+
+#: custom-posts/projects/projects.php:30
+msgid "All Projects"
+msgstr ""
+
+#: custom-posts/projects/projects.php:31
+msgid "View Projects"
+msgstr ""
+
+#: custom-posts/projects/projects.php:32
+msgid "Search Projects"
+msgstr ""
+
+#: custom-posts/projects/projects.php:33
+msgid "No Projects found"
+msgstr ""
+
+#: custom-posts/projects/projects.php:34
+msgid "No Projects found in Trash"
+msgstr ""
+
+#: custom-posts/projects/projects.php:59
+msgid "Projects Categories"
+msgstr ""
+
+#: custom-posts/projects/projects.php:60
+msgid "Projects Category"
+msgstr ""
+
+#: custom-posts/projects/single-project.php:32
+#: elementor-gridvalley/widgets/call-us.php:240
+#: elementor-gridvalley/widgets/clients-section.php:161
+#: elementor-gridvalley/widgets/clients-section.php:190
+#: elementor-gridvalley/widgets/info-section.php:591
+#: elementor-gridvalley/widgets/info-section.php:597
+#: elementor-gridvalley/widgets/projects-section.php:295
+#: elementor-gridvalley/widgets/services-section.php:429
+#: elementor-gridvalley/widgets/services-section.php:620
+#: elementor-gridvalley/widgets/services-section.php:674
+#: elementor-gridvalley/widgets/services-section.php:709
+#: elementor-gridvalley/widgets/testimonials.php:294
+#: elementor-gridvalley/widgets/testimonials.php:361
+#: elementor-gridvalley/widgets/testimonials.php:421
+#: elementor-gridvalley/widgets/testimonials.php:470
+#: elementor-gridvalley/widgets/welcome-section.php:266
+#: elementor-gridvalley/widgets/welcome-section.php:294
+#: elementor-gridvalley/widgets/welcome-section.php:331
+#: elementor-gridvalley/widgets/welcome-section.php:334
+#: elementor-gridvalley/widgets/welcome-section.php:357
+#: elementor-gridvalley/widgets/welcome-section.php:398
+#: elementor-gridvalley/widgets/what-we-do.php:236
+#: elementor-gridvalley/widgets/what-we-do.php:291
+#: elementor-gridvalley/widgets/what-we-do.php:370
+#: elementor-gridvalley/widgets/what-we-do.php:428
+#: widgets/about/views/widget.php:35 widgets/about/views/widget.php:77
+#: widgets/latest-project/views/widget.php:25
+msgid "img"
+msgstr ""
+
+#: custom-posts/projects/single-project.php:54
+msgid "Project"
+msgstr ""
+
+#: custom-posts/projects/single-project.php:64
+#: elementor-gridvalley/widgets/news-section.php:118
+#: elementor-gridvalley/widgets/projects-section.php:118
+#: elementor-gridvalley/widgets/services-section.php:120
+#: elementor-gridvalley/widgets/shop-products.php:113
+#: elementor-gridvalley/widgets/team-section.php:114
+msgid "Categories"
+msgstr ""
+
+#: custom-posts/projects/single-project.php:78
+msgid "Time"
+msgstr ""
+
+#: custom-posts/projects/single-project.php:87
+msgid "Status"
+msgstr ""
+
+#: custom-posts/projects/single-project.php:96
+msgid "Client"
+msgstr ""
+
+#: custom-posts/projects/single-project.php:104
+#: elementor-gridvalley/widgets/call-us.php:108
+#: elementor-gridvalley/widgets/dronza-toggle.php:107
+#: elementor-gridvalley/widgets/price-table.php:145
+#: elementor-gridvalley/widgets/projects-section.php:190
+#: elementor-gridvalley/widgets/services-section.php:206
+#: elementor-gridvalley/widgets/testimonials.php:135
+#: elementor-gridvalley/widgets/welcome-section.php:123
+#: elementor-gridvalley/widgets/what-we-do.php:130
+msgid "Description"
+msgstr ""
+
+#: custom-posts/services/services.php:19 custom-posts/services/services.php:20
+#: custom-posts/services/services.php:31
+msgid "Service"
+msgstr ""
+
+#: custom-posts/services/services.php:22
+msgid "Add New Service"
+msgstr ""
+
+#: custom-posts/services/services.php:23
+msgid "Edit Service"
+msgstr ""
+
+#: custom-posts/services/services.php:24
+msgid "New Service"
+msgstr ""
+
+#: custom-posts/services/services.php:25
+msgid "All Services"
+msgstr ""
+
+#: custom-posts/services/services.php:26
+msgid "View Service"
+msgstr ""
+
+#: custom-posts/services/services.php:27
+msgid "Search Service"
+msgstr ""
+
+#: custom-posts/services/services.php:28
+msgid "No Services found"
+msgstr ""
+
+#: custom-posts/services/services.php:29
+msgid "No Services found in Trash"
+msgstr ""
+
+#: custom-posts/services/services.php:54
+msgid "Service Categories"
+msgstr ""
+
+#: custom-posts/services/services.php:55
+msgid "Service Category"
+msgstr ""
+
+#: custom-posts/team/single-team.php:56
+msgid "About Me"
+msgstr ""
+
+#: custom-posts/team/single-team.php:59
+msgid "Position"
+msgstr ""
+
+#: custom-posts/team/single-team.php:60
+msgid "Level"
+msgstr ""
+
+#: custom-posts/team/single-team.php:61
+msgid "Experience"
+msgstr ""
+
+#: custom-posts/team/single-team.php:62
+msgid "Phone"
+msgstr ""
+
+#: custom-posts/team/single-team.php:63
+msgid "Email"
+msgstr ""
+
+#: custom-posts/team/team.php:24 custom-posts/team/team.php:25
+#: custom-posts/team/team.php:36
+msgid "Team"
+msgstr ""
+
+#: custom-posts/team/team.php:27
+msgid "Add New Team"
+msgstr ""
+
+#: custom-posts/team/team.php:28
+msgid "Edit Team"
+msgstr ""
+
+#: custom-posts/team/team.php:29
+msgid "New Team"
+msgstr ""
+
+#: custom-posts/team/team.php:30
+msgid "All Team"
+msgstr ""
+
+#: custom-posts/team/team.php:31
+msgid "View Team"
+msgstr ""
+
+#: custom-posts/team/team.php:32
+msgid "Search Team"
+msgstr ""
+
+#: custom-posts/team/team.php:33
+msgid "No Team found"
+msgstr ""
+
+#: custom-posts/team/team.php:34
+msgid "No Team found in Trash"
+msgstr ""
+
+#: custom-posts/team/team.php:59
+msgid "Team Categories"
+msgstr ""
+
+#: custom-posts/team/team.php:60
+msgid "Team Category"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:37
+#: elementor-gridvalley/widgets/call-us.php:84
+msgid "Call Us"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:91
+#: elementor-gridvalley/widgets/contact-info.php:91
+#: elementor-gridvalley/widgets/facts.php:104
+#: elementor-gridvalley/widgets/facts.php:139
+#: elementor-gridvalley/widgets/fancy-heading.php:91
+#: elementor-gridvalley/widgets/dronza-toggle.php:98
+#: elementor-gridvalley/widgets/news-section.php:143
+#: elementor-gridvalley/widgets/news-section.php:199
+#: elementor-gridvalley/widgets/price-table.php:127
+#: elementor-gridvalley/widgets/projects-section.php:143
+#: elementor-gridvalley/widgets/services-section.php:145
+#: elementor-gridvalley/widgets/services-section.php:183
+#: elementor-gridvalley/widgets/shop-products.php:138
+#: elementor-gridvalley/widgets/shop-products.php:162
+#: elementor-gridvalley/widgets/team-section.php:139
+#: elementor-gridvalley/widgets/team-section.php:163
+#: elementor-gridvalley/widgets/welcome-section.php:106
+#: elementor-gridvalley/widgets/what-we-do.php:113
+msgid "Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:99
+#: elementor-gridvalley/widgets/contact-info.php:99
+#: elementor-gridvalley/widgets/facts.php:115
+#: elementor-gridvalley/widgets/fancy-heading.php:99
+#: elementor-gridvalley/widgets/news-section.php:207
+#: elementor-gridvalley/widgets/price-table.php:136
+#: elementor-gridvalley/widgets/services-section.php:194
+#: elementor-gridvalley/widgets/shop-products.php:173
+#: elementor-gridvalley/widgets/team-section.php:171
+#: elementor-gridvalley/widgets/welcome-section.php:114
+#: elementor-gridvalley/widgets/what-we-do.php:121
+msgid "Caption"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:118
+#: elementor-gridvalley/widgets/call-us.php:152
+#: elementor-gridvalley/widgets/contact-info.php:133
+msgid "Enter Info Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:120
+#: elementor-gridvalley/widgets/contact-info.php:109
+#: elementor-gridvalley/widgets/contact-info.php:111
+#: elementor-gridvalley/widgets/info-section.php:197
+msgid "Info Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:127
+#: elementor-gridvalley/widgets/contact-info.php:118
+msgid "Enter Info Description"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:129
+#: elementor-gridvalley/widgets/info-section.php:209
+msgid "Info Description"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:136
+msgid "Enter Info Icon Class"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:138
+msgid "Info Icon Class"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:147
+msgid "Information"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:162
+msgid "Person Image"
+msgstr ""
+
+#: elementor-gridvalley/widgets/call-us.php:169
+#: elementor-gridvalley/widgets/facts.php:126
+#: elementor-gridvalley/widgets/info-section.php:275
+#: elementor-gridvalley/widgets/projects-section.php:232
+#: elementor-gridvalley/widgets/testimonials.php:177
+#: elementor-gridvalley/widgets/welcome-section.php:215
+#: elementor-gridvalley/widgets/what-we-do.php:202
+msgid "Section Image"
+msgstr ""
+
+#: elementor-gridvalley/widgets/clients-section.php:37
+#: elementor-gridvalley/widgets/clients-section.php:84
+msgid "Clients Section"
+msgstr ""
+
+#: elementor-gridvalley/widgets/clients-section.php:91
+#: elementor-gridvalley/widgets/facts.php:91
+#: elementor-gridvalley/widgets/info-section.php:91
+#: elementor-gridvalley/widgets/news-section.php:91
+#: elementor-gridvalley/widgets/price-table.php:91
+#: elementor-gridvalley/widgets/projects-section.php:91
+#: elementor-gridvalley/widgets/services-section.php:91
+#: elementor-gridvalley/widgets/shop-products.php:91
+#: elementor-gridvalley/widgets/team-section.php:91
+#: elementor-gridvalley/widgets/testimonials.php:91
+#: elementor-gridvalley/widgets/welcome-section.php:91
+#: elementor-gridvalley/widgets/what-we-do.php:91
+msgid "Select Style"
+msgstr ""
+
+#: elementor-gridvalley/widgets/clients-section.php:95
+#: elementor-gridvalley/widgets/facts.php:95
+#: elementor-gridvalley/widgets/info-section.php:95
+#: elementor-gridvalley/widgets/news-section.php:95
+#: elementor-gridvalley/widgets/projects-section.php:95
+#: elementor-gridvalley/widgets/services-section.php:95
+#: elementor-gridvalley/widgets/shop-products.php:95
+#: elementor-gridvalley/widgets/team-section.php:95
+#: elementor-gridvalley/widgets/testimonials.php:95
+#: elementor-gridvalley/widgets/welcome-section.php:95
+#: elementor-gridvalley/widgets/what-we-do.php:95
+#: widgets/about/class-widget-about.php:73
+#: widgets/services/class-widget-services.php:68
+msgid "Style 1"
+msgstr ""
+
+#: elementor-gridvalley/widgets/clients-section.php:96
+#: elementor-gridvalley/widgets/facts.php:96
+#: elementor-gridvalley/widgets/info-section.php:96
+#: elementor-gridvalley/widgets/news-section.php:96
+#: elementor-gridvalley/widgets/projects-section.php:96
+#: elementor-gridvalley/widgets/services-section.php:96
+#: elementor-gridvalley/widgets/shop-products.php:96
+#: elementor-gridvalley/widgets/team-section.php:96
+#: elementor-gridvalley/widgets/testimonials.php:96
+#: elementor-gridvalley/widgets/welcome-section.php:96
+#: elementor-gridvalley/widgets/what-we-do.php:96
+#: widgets/about/class-widget-about.php:74
+#: widgets/services/class-widget-services.php:69
+msgid "Style 2"
+msgstr ""
+
+#: elementor-gridvalley/widgets/clients-section.php:105
+#: elementor-gridvalley/widgets/clients-section.php:107
+#: elementor-gridvalley/widgets/clients-section.php:127
+msgid "External Link"
+msgstr ""
+
+#: elementor-gridvalley/widgets/clients-section.php:114
+msgid "Client Image"
+msgstr ""
+
+#: elementor-gridvalley/widgets/clients-section.php:122
+msgid "Clients"
+msgstr ""
+
+#: elementor-gridvalley/widgets/contact-info.php:37
+#: elementor-gridvalley/widgets/contact-info.php:84
+#: elementor-gridvalley/widgets/contact-info.php:128
+msgid "Contact Info"
+msgstr ""
+
+#: elementor-gridvalley/widgets/contact-info.php:120
+#: elementor-gridvalley/widgets/what-we-do.php:151
+msgid "Service Description"
+msgstr ""
+
+#: elementor-gridvalley/widgets/facts.php:37
+#: elementor-gridvalley/widgets/facts.php:84
+#: elementor-gridvalley/widgets/info-section.php:159
+msgid "Facts"
+msgstr ""
+
+#: elementor-gridvalley/widgets/facts.php:148
+msgid "Value"
+msgstr ""
+
+#: elementor-gridvalley/widgets/facts.php:157
+msgid "Facts List"
+msgstr ""
+
+#: elementor-gridvalley/widgets/facts.php:162
+#: elementor-gridvalley/widgets/dronza-toggle.php:96
+#: elementor-gridvalley/widgets/dronza-toggle.php:120
+#: elementor-gridvalley/widgets/price-table.php:208
+msgid "Enter Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/fancy-heading.php:37
+#: elementor-gridvalley/widgets/fancy-heading.php:84
+msgid "Fancy Heading"
+msgstr ""
+
+#: elementor-gridvalley/widgets/dronza-sidebar.php:45
+msgid "Dronza Sidebar"
+msgstr ""
+
+#: elementor-gridvalley/widgets/dronza-sidebar.php:94
+msgid "No sidebars were found"
+msgstr ""
+
+#: elementor-gridvalley/widgets/dronza-sidebar.php:96
+#: elementor-gridvalley/widgets/dronza-sidebar.php:114
+msgid "Choose Sidebar"
+msgstr ""
+
+#: elementor-gridvalley/widgets/dronza-sidebar.php:109
+msgid "Sidebar"
+msgstr ""
+
+#: elementor-gridvalley/widgets/dronza-toggle.php:37
+#: elementor-gridvalley/widgets/dronza-toggle.php:84
+msgid "Dronza Toggle"
+msgstr ""
+
+#: elementor-gridvalley/widgets/dronza-toggle.php:105
+msgid "Enter Description"
+msgstr ""
+
+#: elementor-gridvalley/widgets/dronza-toggle.php:115
+msgid "Toggles"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:37
+#: elementor-gridvalley/widgets/info-section.php:84
+msgid "Info Section"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:97
+#: elementor-gridvalley/widgets/news-section.php:97
+#: elementor-gridvalley/widgets/projects-section.php:97
+#: elementor-gridvalley/widgets/services-section.php:97
+#: elementor-gridvalley/widgets/team-section.php:97
+#: elementor-gridvalley/widgets/testimonials.php:97
+#: elementor-gridvalley/widgets/welcome-section.php:97
+msgid "Style 3"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:98
+#: elementor-gridvalley/widgets/news-section.php:98
+#: elementor-gridvalley/widgets/projects-section.php:98
+#: elementor-gridvalley/widgets/services-section.php:98
+#: elementor-gridvalley/widgets/testimonials.php:98
+#: elementor-gridvalley/widgets/welcome-section.php:98
+msgid "Style 4"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:99
+#: elementor-gridvalley/widgets/news-section.php:99
+#: elementor-gridvalley/widgets/projects-section.php:99
+#: elementor-gridvalley/widgets/services-section.php:99
+msgid "Style 5"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:100
+#: elementor-gridvalley/widgets/news-section.php:100
+#: elementor-gridvalley/widgets/projects-section.php:100
+#: elementor-gridvalley/widgets/services-section.php:100
+msgid "Style 6"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:108
+#: elementor-gridvalley/widgets/projects-section.php:167
+#: elementor-gridvalley/widgets/testimonials.php:118
+msgid "Element Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:116
+#: elementor-gridvalley/widgets/projects-section.php:178
+#: elementor-gridvalley/widgets/testimonials.php:126
+msgid "Element Caption"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:125
+msgid "Video Url"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:127
+#: elementor-gridvalley/widgets/info-section.php:235
+#: elementor-gridvalley/widgets/news-section.php:227
+#: elementor-gridvalley/widgets/price-table.php:181
+#: elementor-gridvalley/widgets/projects-section.php:216
+#: elementor-gridvalley/widgets/services-section.php:232
+#: elementor-gridvalley/widgets/shop-products.php:199
+#: elementor-gridvalley/widgets/testimonials.php:161
+#: elementor-gridvalley/widgets/welcome-section.php:178
+msgid "https://your-link.com"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:139
+#: elementor-gridvalley/widgets/info-section.php:141
+msgid "Fact Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:148
+msgid "Enter Fact Value"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:150
+msgid "Fact Value"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:164
+msgid "Enter Fact Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:177
+#: elementor-gridvalley/widgets/testimonials.php:220
+msgid "Quote"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:188
+msgid "Quote By"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:221
+msgid "Info Button Text"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:233
+msgid "Info Button Url"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:251
+msgid "Video Poster Image"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:262
+#: elementor-gridvalley/widgets/testimonials.php:188
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: elementor-gridvalley/widgets/info-section.php:264
+#: elementor-gridvalley/widgets/testimonials.php:190
+msgid ""
+"Enter contact form 7 shortcode from here. You can get it from Contact/"
+"Contact Forms. Leave blank to hide this."
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:37
+#: elementor-gridvalley/widgets/news-section.php:84
+msgid "News Section"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:101
+#: elementor-gridvalley/widgets/projects-section.php:101
+#: elementor-gridvalley/widgets/services-section.php:101
+msgid "Style 7"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:130
+#: elementor-gridvalley/widgets/projects-section.php:130
+#: elementor-gridvalley/widgets/services-section.php:132
+#: elementor-gridvalley/widgets/shop-products.php:125
+#: elementor-gridvalley/widgets/team-section.php:126
+msgid "Posts Per Page"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:139
+#: elementor-gridvalley/widgets/projects-section.php:139
+#: elementor-gridvalley/widgets/services-section.php:141
+#: elementor-gridvalley/widgets/shop-products.php:134
+#: elementor-gridvalley/widgets/team-section.php:135
+msgid "Order By"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:144
+#: elementor-gridvalley/widgets/projects-section.php:144
+#: elementor-gridvalley/widgets/services-section.php:146
+#: elementor-gridvalley/widgets/shop-products.php:139
+#: elementor-gridvalley/widgets/team-section.php:140
+#: elementor-gridvalley/widgets/testimonials.php:202
+#: elementor-gridvalley/widgets/testimonials.php:204
+#: elementor-gridvalley/widgets/welcome-section.php:132
+msgid "Name"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:145
+#: elementor-gridvalley/widgets/projects-section.php:145
+#: elementor-gridvalley/widgets/services-section.php:147
+#: elementor-gridvalley/widgets/shop-products.php:140
+#: elementor-gridvalley/widgets/team-section.php:141
+msgid "Date"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:146
+#: elementor-gridvalley/widgets/projects-section.php:146
+#: elementor-gridvalley/widgets/services-section.php:148
+#: elementor-gridvalley/widgets/shop-products.php:141
+#: elementor-gridvalley/widgets/team-section.php:142
+msgid "Comment Count"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:154
+#: elementor-gridvalley/widgets/projects-section.php:154
+#: elementor-gridvalley/widgets/services-section.php:156
+#: elementor-gridvalley/widgets/shop-products.php:149
+#: elementor-gridvalley/widgets/team-section.php:150
+msgid "Order"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:158
+#: elementor-gridvalley/widgets/projects-section.php:158
+#: elementor-gridvalley/widgets/services-section.php:160
+#: elementor-gridvalley/widgets/shop-products.php:153
+#: elementor-gridvalley/widgets/team-section.php:154
+msgid "ASC"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:159
+#: elementor-gridvalley/widgets/projects-section.php:159
+#: elementor-gridvalley/widgets/services-section.php:161
+#: elementor-gridvalley/widgets/shop-products.php:154
+#: elementor-gridvalley/widgets/team-section.php:155
+msgid "DESC"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:167
+msgid "Title Characters to Fetch"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:176
+msgid "Description Characters to Fetch"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:185
+#: elementor-gridvalley/widgets/services-section.php:169
+msgid "Show Pagination"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:188
+#: elementor-gridvalley/widgets/services-section.php:172
+msgid "Off"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:189
+#: elementor-gridvalley/widgets/services-section.php:173
+msgid "On"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:216
+#: elementor-gridvalley/widgets/price-table.php:170
+#: elementor-gridvalley/widgets/projects-section.php:202
+#: elementor-gridvalley/widgets/services-section.php:218
+#: elementor-gridvalley/widgets/shop-products.php:185
+#: elementor-gridvalley/widgets/testimonials.php:147
+#: elementor-gridvalley/widgets/welcome-section.php:167
+msgid "Button Text"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:225
+#: elementor-gridvalley/widgets/price-table.php:179
+#: elementor-gridvalley/widgets/projects-section.php:214
+#: elementor-gridvalley/widgets/services-section.php:230
+#: elementor-gridvalley/widgets/shop-products.php:197
+#: elementor-gridvalley/widgets/testimonials.php:159
+#: elementor-gridvalley/widgets/welcome-section.php:176
+msgid "Button Url"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:308
+#: elementor-gridvalley/widgets/news-section.php:395
+#: elementor-gridvalley/widgets/news-section.php:445
+#: elementor-gridvalley/widgets/news-section.php:520
+#: elementor-gridvalley/widgets/news-section.php:604
+#: elementor-gridvalley/widgets/news-section.php:654
+#: elementor-gridvalley/widgets/news-section.php:723
+#: elementor-gridvalley/widgets/news-section.php:787
+#: widgets/recent-posts-entry/views/widget.php:23
+msgid "Comment"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:310
+#: elementor-gridvalley/widgets/news-section.php:397
+#: elementor-gridvalley/widgets/news-section.php:447
+#: elementor-gridvalley/widgets/news-section.php:522
+#: elementor-gridvalley/widgets/news-section.php:606
+#: elementor-gridvalley/widgets/news-section.php:656
+#: elementor-gridvalley/widgets/news-section.php:725
+#: elementor-gridvalley/widgets/news-section.php:789
+#: widgets/recent-posts-entry/views/widget.php:25
+msgid "Comments"
+msgstr ""
+
+#: elementor-gridvalley/widgets/news-section.php:344
+#: elementor-gridvalley/widgets/news-section.php:428
+#: elementor-gridvalley/widgets/news-section.php:473
+#: elementor-gridvalley/widgets/news-section.php:553
+#: elementor-gridvalley/widgets/news-section.php:629
+#: elementor-gridvalley/widgets/news-section.php:677
+#: elementor-gridvalley/widgets/news-section.php:756
+#: elementor-gridvalley/widgets/projects-section.php:457
+#: elementor-gridvalley/widgets/projects-section.php:500
+#: elementor-gridvalley/widgets/projects-section.php:558
+#: elementor-gridvalley/widgets/projects-section.php:617
+#: elementor-gridvalley/widgets/projects-section.php:676
+#: elementor-gridvalley/widgets/services-section.php:336
+#: elementor-gridvalley/widgets/services-section.php:387
+#: elementor-gridvalley/widgets/services-section.php:540
+#: elementor-gridvalley/widgets/services-section.php:592
+#: elementor-gridvalley/widgets/services-section.php:705
+msgid "Read More"
+msgstr ""
+
+#: elementor-gridvalley/widgets/price-table.php:37
+#: elementor-gridvalley/widgets/price-table.php:84
+msgid "Price Table"
+msgstr ""
+
+#: elementor-gridvalley/widgets/price-table.php:95
+msgid "Style1"
+msgstr ""
+
+#: elementor-gridvalley/widgets/price-table.php:96
+msgid "Style2"
+msgstr ""
+
+#: elementor-gridvalley/widgets/price-table.php:104
+msgid "Select Background Type"
+msgstr ""
+
+#: elementor-gridvalley/widgets/price-table.php:108
+msgid "White"
+msgstr ""
+
+#: elementor-gridvalley/widgets/price-table.php:109
+msgid "Gray"
+msgstr ""
+
+#: elementor-gridvalley/widgets/price-table.php:117
+msgid "Price Table Background Color"
+msgstr ""
+
+#: elementor-gridvalley/widgets/price-table.php:153
+msgid "Currency symbol"
+msgstr ""
+
+#: elementor-gridvalley/widgets/price-table.php:161
+msgid "Price"
+msgstr ""
+
+#: elementor-gridvalley/widgets/price-table.php:194
+msgid "Icon Image"
+msgstr ""
+
+#: elementor-gridvalley/widgets/price-table.php:203
+msgid "Price Tables"
+msgstr ""
+
+#: elementor-gridvalley/widgets/projects-section.php:37
+#: elementor-gridvalley/widgets/projects-section.php:84
+msgid "Projects Section"
+msgstr ""
+
+#: elementor-gridvalley/widgets/projects-section.php:317
+#: elementor-gridvalley/widgets/services-section.php:439
+#: elementor-gridvalley/widgets/services-section.php:625
+msgid "More Detail"
+msgstr ""
+
+#: elementor-gridvalley/widgets/projects-section.php:355
+#: elementor-gridvalley/widgets/projects-section.php:522
+msgid "All Cases"
+msgstr ""
+
+#: elementor-gridvalley/widgets/services-section.php:37
+#: elementor-gridvalley/widgets/services-section.php:84
+msgid "Services Section"
+msgstr ""
+
+#: elementor-gridvalley/widgets/services-section.php:102
+msgid "Style 8"
+msgstr ""
+
+#: elementor-gridvalley/widgets/services-section.php:103
+msgid "Style 9"
+msgstr ""
+
+#: elementor-gridvalley/widgets/services-section.php:248
+msgid "Sectiom Image"
+msgstr ""
+
+#: elementor-gridvalley/widgets/shop-products.php:37
+#: elementor-gridvalley/widgets/shop-products.php:84
+msgid "Shop Products"
+msgstr ""
+
+#: elementor-gridvalley/widgets/team-section.php:37
+#: elementor-gridvalley/widgets/team-section.php:84
+msgid "Team Section"
+msgstr ""
+
+#: elementor-gridvalley/widgets/testimonials.php:37
+#: elementor-gridvalley/widgets/testimonials.php:84
+#: elementor-gridvalley/widgets/testimonials.php:236
+msgid "Testimonials"
+msgstr ""
+
+#: elementor-gridvalley/widgets/testimonials.php:106
+msgid "Section Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/testimonials.php:211
+#: elementor-gridvalley/widgets/testimonials.php:213
+#: elementor-gridvalley/widgets/welcome-section.php:144
+msgid "Designation"
+msgstr ""
+
+#: elementor-gridvalley/widgets/testimonials.php:228
+msgid "Testimonial Image"
+msgstr ""
+
+#: elementor-gridvalley/widgets/testimonials.php:241
+msgid "Enter Name"
+msgstr ""
+
+#: elementor-gridvalley/widgets/welcome-section.php:37
+#: elementor-gridvalley/widgets/welcome-section.php:84
+msgid "Welcome Section"
+msgstr ""
+
+#: elementor-gridvalley/widgets/welcome-section.php:156
+msgid "Signature Image"
+msgstr ""
+
+#: elementor-gridvalley/widgets/welcome-section.php:191
+msgid "Since Text"
+msgstr ""
+
+#: elementor-gridvalley/widgets/welcome-section.php:203
+msgid "Since Year"
+msgstr ""
+
+#: elementor-gridvalley/widgets/welcome-section.php:225
+msgid "Section Second Image"
+msgstr ""
+
+#: elementor-gridvalley/widgets/welcome-section.php:236
+msgid "Section Gallery"
+msgstr ""
+
+#: elementor-gridvalley/widgets/what-we-do.php:37
+#: elementor-gridvalley/widgets/what-we-do.php:84
+msgid "What We Do"
+msgstr ""
+
+#: elementor-gridvalley/widgets/what-we-do.php:104
+msgid "Section Background Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/what-we-do.php:140
+#: elementor-gridvalley/widgets/what-we-do.php:174
+msgid "Enter Service Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/what-we-do.php:142
+msgid "Service Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/what-we-do.php:149
+msgid "Enter Service Description"
+msgstr ""
+
+#: elementor-gridvalley/widgets/what-we-do.php:158
+msgid "Enter Service Icon Class"
+msgstr ""
+
+#: elementor-gridvalley/widgets/what-we-do.php:160
+msgid "Service Icon Class"
+msgstr ""
+
+#: elementor-gridvalley/widgets/what-we-do.php:169
+msgid "Services"
+msgstr ""
+
+#: elementor-gridvalley/widgets/what-we-do.php:184
+msgid "Image Title"
+msgstr ""
+
+#: elementor-gridvalley/widgets/what-we-do.php:193
+msgid "Image Description"
+msgstr ""
+
+#: gridvalley.php:59
+msgid "Dronza"
+msgstr ""
+
+#: gridvalley.php:130
+msgid "Facebook"
+msgstr ""
+
+#: gridvalley.php:135
+msgid "Google Plus"
+msgstr ""
+
+#: gridvalley.php:141
+msgid "Linkedin"
+msgstr ""
+
+#: gridvalley.php:147
+msgid "Pinterest"
+msgstr ""
+
+#: gridvalley.php:153
+msgid "Twitter"
+msgstr ""
+
+#: gridvalley.php:244
+msgid "0"
+msgstr ""
+
+#: widgets/about/class-widget-about.php:17
+msgid "Dronza: About Widget"
+msgstr ""
+
+#: widgets/about/class-widget-about.php:66
+#: widgets/contact-info/class-widget-contact-info.php:62
+#: widgets/download-pdf/class-widget-download-pdf.php:73
+#: widgets/latest-project/class-widget-latest-project.php:66
+#: widgets/newsletter/class-widget-newsletter.php:57
+#: widgets/recent-posts-entry/class-widget-recent-posts-entry.php:73
+#: widgets/services/class-widget-services.php:74
+msgid "Title :"
+msgstr ""
+
+#: widgets/about/class-widget-about.php:71
+#: widgets/services/class-widget-services.php:66
+msgid "Style :"
+msgstr ""
+
+#: widgets/about/class-widget-about.php:73
+#: widgets/about/class-widget-about.php:74
+#: widgets/latest-project/class-widget-latest-project.php:74
+#: widgets/latest-project/class-widget-latest-project.php:78
+#: widgets/recent-posts-entry/class-widget-recent-posts-entry.php:81
+#: widgets/recent-posts-entry/class-widget-recent-posts-entry.php:85
+#: widgets/services/class-widget-services.php:68
+#: widgets/services/class-widget-services.php:69
+#: widgets/services/class-widget-services.php:82
+#: widgets/services/class-widget-services.php:86
+msgid " selected "
+msgstr ""
+
+#: widgets/about/class-widget-about.php:80
+msgid "Logo Url:"
+msgstr ""
+
+#: widgets/about/class-widget-about.php:86
+msgid "Address:"
+msgstr ""
+
+#: widgets/about/class-widget-about.php:93
+msgid "First Email address:"
+msgstr ""
+
+#: widgets/about/class-widget-about.php:100
+msgid "First Phone Number:"
+msgstr ""
+
+#: widgets/about/class-widget-about.php:105
+msgid "Description:"
+msgstr ""
+
+#: widgets/contact-info/class-widget-contact-info.php:17
+msgid "Dronza: Contact Info"
+msgstr ""
+
+#: widgets/contact-info/class-widget-contact-info.php:69
+msgid "Location Address :"
+msgstr ""
+
+#: widgets/contact-info/class-widget-contact-info.php:76
+msgid "Enter Phone :"
+msgstr ""
+
+#: widgets/contact-info/class-widget-contact-info.php:83
+msgid "Email Address :"
+msgstr ""
+
+#: widgets/download-pdf/class-widget-download-pdf.php:17
+msgid "Dronza: Download Brochure"
+msgstr ""
+
+#: widgets/download-pdf/class-widget-download-pdf.php:78
+#: widgets/newsletter/class-widget-newsletter.php:62
+msgid "Description :"
+msgstr ""
+
+#: widgets/download-pdf/class-widget-download-pdf.php:83
+msgid "File 1 Title :"
+msgstr ""
+
+#: widgets/download-pdf/class-widget-download-pdf.php:88
+msgid "File 1 Url :"
+msgstr ""
+
+#: widgets/download-pdf/class-widget-download-pdf.php:93
+msgid "File 1 Icon Class :"
+msgstr ""
+
+#: widgets/download-pdf/class-widget-download-pdf.php:98
+msgid "File 2 Title :"
+msgstr ""
+
+#: widgets/download-pdf/class-widget-download-pdf.php:103
+msgid "File 2 Url :"
+msgstr ""
+
+#: widgets/download-pdf/class-widget-download-pdf.php:108
+msgid "File 2 Icon Class :"
+msgstr ""
+
+#: widgets/download-pdf/class-widget-download-pdf.php:113
+msgid "File 3 Title :"
+msgstr ""
+
+#: widgets/download-pdf/class-widget-download-pdf.php:118
+msgid "File 3 Url :"
+msgstr ""
+
+#: widgets/download-pdf/class-widget-download-pdf.php:123
+msgid "File 3 Icon Class :"
+msgstr ""
+
+#: widgets/latest-project/class-widget-latest-project.php:17
+msgid "Dronza: Latest Project"
+msgstr ""
+
+#: widgets/latest-project/class-widget-latest-project.php:72
+#: widgets/recent-posts-entry/class-widget-recent-posts-entry.php:79
+#: widgets/services/class-widget-services.php:80
+msgid "Category :"
+msgstr ""
+
+#: widgets/latest-project/class-widget-latest-project.php:74
+#: widgets/recent-posts-entry/class-widget-recent-posts-entry.php:81
+#: widgets/services/class-widget-services.php:82
+msgid "All"
+msgstr ""
+
+#: widgets/latest-project/class-widget-latest-project.php:86
+#: widgets/recent-posts-entry/class-widget-recent-posts-entry.php:93
+#: widgets/services/class-widget-services.php:94
+msgid "Num Fetch :"
+msgstr ""
+
+#: widgets/newsletter/class-widget-newsletter.php:17
+msgid "Dronza: Newsletter Widget"
+msgstr ""
+
+#: widgets/newsletter/class-widget-newsletter.php:67
+msgid "Caption :"
+msgstr ""
+
+#: widgets/newsletter/views/widget.php:22
+msgid "Enter your email"
+msgstr ""
+
+#: widgets/newsletter/views/widget.php:23
+msgid "Subscribe"
+msgstr ""
+
+#: widgets/recent-posts-entry/class-widget-recent-posts-entry.php:17
+msgid "Dronza: Recent Posts"
+msgstr ""
+
+#: widgets/services/class-widget-services.php:17
+msgid "Dronza: Services"
+msgstr ""

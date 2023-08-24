@@ -1,0 +1,66 @@
+{
+    "key": "group_5e8ae9be8cfe2",
+    "title": "Shop Settings",
+    "fields": [
+        {
+            "key": "field_5e8ae9d9d40a1",
+            "label": "Products Per Row",
+            "name": "products_per_row",
+            "type": "number",
+            "instructions": "Enter the number of products you want to show per row on shop default page.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        },
+        {
+            "key": "field_5e8aea1bd40a2",
+            "label": "Products Per Page",
+            "name": "products_per_page",
+            "type": "number",
+            "instructions": "Enter the number of products you want to show per page on shop default page.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "min": "",
+            "max": "",
+            "step": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "theme-general-Options"
+            }
+        ]
+    ],
+    "menu_order": 7,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1586162347
+}

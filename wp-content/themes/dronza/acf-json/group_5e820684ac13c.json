@@ -1,0 +1,107 @@
+{
+    "key": "group_5e820684ac13c",
+    "title": "Team",
+    "fields": [
+        {
+            "key": "field_5e82068dc8d79",
+            "label": "Designation",
+            "name": "designation",
+            "type": "text",
+            "instructions": "You can enter designation from here.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": "",
+            "prepend": "",
+            "append": "",
+            "maxlength": ""
+        },
+        {
+            "key": "field_5e82079bc8d7d",
+            "label": "Facebook Url",
+            "name": "facebook_url",
+            "type": "url",
+            "instructions": "You can enter social profile url from here.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5e8207f0c8d80",
+            "label": "Twitter Url",
+            "name": "twitter_url",
+            "type": "url",
+            "instructions": "You can enter social profile url from here.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5e8207efc8d7f",
+            "label": "Instagram Url",
+            "name": "instagram_url",
+            "type": "url",
+            "instructions": "You can enter social profile url from here.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        },
+        {
+            "key": "field_5e8207eec8d7e",
+            "label": "LinkedIn",
+            "name": "linkedin",
+            "type": "url",
+            "instructions": "You can enter social profile url from here.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "",
+            "placeholder": ""
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "post_type",
+                "operator": "==",
+                "value": "team"
+            }
+        ]
+    ],
+    "menu_order": 0,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "modified": 1607250207
+}

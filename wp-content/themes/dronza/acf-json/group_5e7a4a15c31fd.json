@@ -1,0 +1,54 @@
+{
+    "key": "group_5e7a4a15c31fd",
+    "title": "Color Scheme",
+    "fields": [
+        {
+            "key": "field_5e7a4a1cf9746",
+            "label": "Primary Color Scheme",
+            "name": "primary_color_scheme",
+            "type": "color_picker",
+            "instructions": "Select theme color scheme from here.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#d72323"
+        },
+        {
+            "key": "field_5e8e1eec9b3f7",
+            "label": "Secondary Color Scheme",
+            "name": "secondary_color_scheme",
+            "type": "color_picker",
+            "instructions": "Select theme secondary color scheme from here.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "default_value": "#191919"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "theme-general-Options"
+            }
+        ]
+    ],
+    "menu_order": 1,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": true,
+    "description": "",
+    "modified": 1612199845
+}

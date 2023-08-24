@@ -1,0 +1,138 @@
+{
+    "key": "group_5e7a4b52c93d3",
+    "title": "Blog Settings",
+    "fields": [
+        {
+            "key": "field_5e7a4b7c9dccb",
+            "label": "Post Detail Feature Image",
+            "name": "post_detail_feature_image",
+            "type": "true_false",
+            "instructions": "If you do not want to set a featured image kindly disable it here.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "Enable",
+            "ui_off_text": "Disable"
+        },
+        {
+            "key": "field_5e7a4c119dcd0",
+            "label": "Post Detail Date",
+            "name": "post_detail_date",
+            "type": "true_false",
+            "instructions": "Using this option you can show\/hide extra information about the blog or post, Date.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "Enable",
+            "ui_off_text": "Disable"
+        },
+        {
+            "key": "field_5e7a4c119dccf",
+            "label": "Post Detail Author",
+            "name": "post_detail_author",
+            "type": "true_false",
+            "instructions": "You can enable or disable the about author box from here.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "Enable",
+            "ui_off_text": "Disable"
+        },
+        {
+            "key": "field_5e7a4c109dcce",
+            "label": "Post Detail Meta",
+            "name": "post_detail_meta",
+            "type": "true_false",
+            "instructions": "Using this option you can show\/hide extra information about the blog or post Meta Information.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "Enable",
+            "ui_off_text": "Disable"
+        },
+        {
+            "key": "field_5e7a4c0f9dccd",
+            "label": "Post Detail Next \/ Previous Button",
+            "name": "post_detail_next__previous_button",
+            "type": "true_false",
+            "instructions": "Using this option you can turn on\/off the navigation arrows when viewing the blog single page.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "Enable",
+            "ui_off_text": "Disable"
+        },
+        {
+            "key": "field_5e7a4c0e9dccc",
+            "label": "Post Detail Recommended Post Button",
+            "name": "post_detail_recommended_post_button",
+            "type": "true_false",
+            "instructions": "Using this option you can turn on\/off the Recommended Posts on the blog single page.",
+            "required": 0,
+            "conditional_logic": 0,
+            "wrapper": {
+                "width": "",
+                "class": "",
+                "id": ""
+            },
+            "message": "",
+            "default_value": 0,
+            "ui": 1,
+            "ui_on_text": "Enable",
+            "ui_off_text": "Disable"
+        }
+    ],
+    "location": [
+        [
+            {
+                "param": "options_page",
+                "operator": "==",
+                "value": "theme-general-Options"
+            }
+        ]
+    ],
+    "menu_order": 2,
+    "position": "normal",
+    "style": "default",
+    "label_placement": "top",
+    "instruction_placement": "label",
+    "hide_on_screen": "",
+    "active": 1,
+    "description": "",
+    "modified": 1585076539
+}
